@@ -1,0 +1,33 @@
+@media(max-width:567px){
+     iframe{
+        width: 100% !important;
+     }
+     .footer-link,.footer-links{
+        margin-bottom: 40px;
+    }
+    .banner-sec{
+        text-align: center !important;
+        height: 60vh;
+    }
+}
+@media(min-width:567px){
+    .footer-link,.footer-links{
+        margin-bottom: 40px;
+    }  
+    .banner-sec{
+        height: 40vh;
+    }
+    .icon{
+        top:85px;
+    }
+}
+@media(min-width:780px){
+    .footer-link{
+        margin-bottom: 40px;
+    }
+}
+@media(min-width:992px){
+    .banner-sec{
+        height: 75vh;  
+ } 
+}
